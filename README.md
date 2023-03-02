@@ -16,6 +16,9 @@ Architecture du projet
          ├── test_main.py
          └── test_crud.py
          └── test_database.py
+         
+         
+
 
 Pré-requis
 Vous avez besoin de sqlite pour faire marcher cette API.
