@@ -29,7 +29,7 @@ main.py --> contient les quatres méthodes CRUD (get, post, put, delete)
 test_main.py --> contient les différents test des méthodes CRUD
 La base de donnée nommé "notes" contient la table "test" qui elle contient les données qui se présentent sour la forme :
 
-   _id (généré automatiquement)
+   _id (généré automatiquement) /n
    titre
    description
    
